@@ -17,6 +17,9 @@
 
 1. Si la función es llamada con `n=10`, ¿cuál es el valor de la variable `n` que se visualiza en la ventana de variables del debugger justo antes de que se ejecute la línea `serie = [0, 1]`?
  respuesta = la variable n tendra el valor de 10
+
+![valor n](1.png)
+
 ---
 
 ### Apartado 2
@@ -31,6 +34,7 @@
 **(Indica el valor numérico exacto de la variable `aux` en ese momento y el nombre de la herramienta de *debugging* que utilizaste para entrar en la función).**
 
 respuesta = la variable aux que da con el valor numerico 1 y use el step into para acceder a la variable
+![valor aux](2.png)
 
 4. Si estuvieras dentro de la función `calcular_siguiente` y quisieras salir rápidamente sin ejecutar el resto de las líneas, volviendo al punto de llamada en `funcion_bucle`, ¿qué función del debugger deberías usar?
 
